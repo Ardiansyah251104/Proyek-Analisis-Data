@@ -5,6 +5,7 @@
 mkdir Dashboard_Analisis_Data
 cd Dashboard_Analisis_Dada
 python -m venv venv
+ .\venv\Scripts\activate 
 pip install pandas -r requirements.txt
 ```
 
