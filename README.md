@@ -10,5 +10,5 @@ pip install pandas -r requirements.txt
 
 ## Run Streamlit app
 ```
-streamlit run dashboard_.py
+streamlit run dashboard.py
 ```
