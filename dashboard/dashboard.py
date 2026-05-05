@@ -322,4 +322,4 @@ with tab4:
 
 # Footer
 st.divider()
-st.caption('Dashboard created by Dika Della And Dwi (DDD) | Dicoding Data Analysis Project 2026')
+st.caption('Dashboard created by Dika Della And Dwi (DDD) | Bisnis Intelegen Project 2026')
